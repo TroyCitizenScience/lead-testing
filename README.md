@@ -17,3 +17,5 @@ For now, this readme will host links relevant to building the project's infrastr
 [absorbance vs concentration](https://terpconnect.umd.edu/~toh/models/BeersLawCurveFit.html)
 
 http://myspectral.tictail.com/product/lumini-two
+
+https://hackaday.io/project/1342-open-spectrometer
