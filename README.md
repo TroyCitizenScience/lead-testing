@@ -19,3 +19,5 @@ For now, this readme will host links relevant to building the project's infrastr
 http://myspectral.tictail.com/product/lumini-two
 
 https://hackaday.io/project/1342-open-spectrometer
+
+https://hackaday.io/project/10738-ottervis-lgl-spectrophotometer
