@@ -15,3 +15,5 @@ For now, this readme will host links relevant to building the project's infrastr
 [some other suggestions](https://www.researchgate.net/post/What_is_the_procedure_for_measuring_soil_heavy_metals_using_atomic_absorption_spectroscope_AAS)
 
 [absorbance vs concentration](https://terpconnect.umd.edu/~toh/models/BeersLawCurveFit.html)
+
+http://myspectral.tictail.com/product/lumini-two
