@@ -7,16 +7,19 @@ This repo contains information related to DIY heavy metal testing in Troy, NY.  
 It may be desirable to map any contaminated spots in the community.
 
 * [Here GPS Location](https://f-droid.org/repository/browse/?fdfilter=here+gps+location&fdid=com.borneq.heregpslocation) - an app for logging your GPS coordinates when you take a sample
+* [Leaflet](http://leafletjs.com/) mapping library
+* [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON) standard
 
-[Leaflet](http://leafletjs.com/) mapping library
+## procedures
 
-[GeoJSON](https://en.wikipedia.org/wiki/GeoJSON) standard
+Papers and protocols describing how to do heavy metal testing on the cheap.
 
-[Mielke paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1651267/pdf/amjph00647-0022.pdf)
+* [Mielke paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1651267/pdf/amjph00647-0022.pdf)
+* [some other suggestions](https://www.researchgate.net/post/What_is_the_procedure_for_measuring_soil_heavy_metals_using_atomic_absorption_spectroscope_AAS)
 
-[some other suggestions](https://www.researchgate.net/post/What_is_the_procedure_for_measuring_soil_heavy_metals_using_atomic_absorption_spectroscope_AAS)
+## theory
 
-[absorbance vs concentration](https://terpconnect.umd.edu/~toh/models/BeersLawCurveFit.html)
+* [absorbance vs concentration](https://terpconnect.umd.edu/~toh/models/BeersLawCurveFit.html) - important to think about during calibration.
 
 http://myspectral.tictail.com/product/lumini-two
 
