@@ -9,6 +9,7 @@ It may be desirable to map any contaminated spots in the community.
 * [Here GPS Location](https://f-droid.org/repository/browse/?fdfilter=here+gps+location&fdid=com.borneq.heregpslocation) - an app for logging your GPS coordinates when you take a sample
 * [Leaflet](http://leafletjs.com/) mapping library
 * [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON) standard
+* [WhereAreTheEyes](https://f-droid.org/repository/browse/?fdfilter=where+are&fdid=org.daylightingsociety.wherearetheeyes) - this could probably be forked and set up with a new backend to meet our needs
 
 ## procedures
 
