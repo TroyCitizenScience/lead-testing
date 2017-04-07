@@ -1,10 +1,12 @@
 # lead-testing
 
-This repo is mostly for a web framework for generating a map of lead testing data.  There might be some instrument software too.  
+This repo contains information related to DIY heavy metal testing in Troy, NY.  Heavy metal testing of soil and water generally requires expensive equipment and expertise beyond what is available to most who might be at risk for heavy metal poisoning.  This project aims to prepare a high-quality, low-cost DIY lab procedure that can be made accessible to Troy residents.
 
-For now, this readme will host links relevant to building the project's infrastructure.
+## mapping
 
-[Here GPS Location](https://f-droid.org/repository/browse/?fdfilter=here+gps+location&fdid=com.borneq.heregpslocation) - an app for logging your GPS coordinates when you take a sample
+It may be desirable to map any contaminated spots in the community.
+
+* [Here GPS Location](https://f-droid.org/repository/browse/?fdfilter=here+gps+location&fdid=com.borneq.heregpslocation) - an app for logging your GPS coordinates when you take a sample
 
 [Leaflet](http://leafletjs.com/) mapping library
 
