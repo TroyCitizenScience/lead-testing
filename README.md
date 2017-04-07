@@ -25,3 +25,6 @@ Papers and protocols describing how to do heavy metal testing on the cheap.
 * [Lumini TWO](http://myspectral.tictail.com/product/lumini-two) - a fairly cheap handheld unit
 * [open-Spectrometer](https://hackaday.io/project/1342-open-spectrometer) - this one seems decent
 * [OtterVIS](https://hackaday.io/project/10738-ottervis-lgl-spectrophotometer) - this one might be the best
+
+## software
+* [Spectral Workbench](https://spectralworkbench.org/login?back_to=/spectrums/fork/105146)
