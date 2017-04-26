@@ -2,6 +2,10 @@
 
 This repo contains information related to DIY heavy metal testing in Troy, NY.  Heavy metal testing of soil and water generally requires expensive equipment and expertise beyond what is available to most who might be at risk for heavy metal poisoning.  This project aims to prepare a high-quality, low-cost DIY lab procedure that can be made accessible to Troy residents.
 
+## policy, training and other info
+
+* [NYS lead guide](https://www.health.ny.gov/regulations/nycrr/title_10/part_67/)
+
 ## mapping
 
 It may be desirable to map any contaminated spots in the community.
