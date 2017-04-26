@@ -40,6 +40,7 @@ Papers and protocols describing how to do heavy metal testing on the cheap.
 
 ### XRF
 * [hackaday.io thread](https://hackaday.io/project/5885-handheld-xrf)
+* [thread describing a DIY XRF](http://physicsopenlab.org/2016/02/24/diy-xrf-spectrometry/)
 
 ## software
 * [Spectral Workbench](https://spectralworkbench.org/login?back_to=/spectrums/fork/105146)
