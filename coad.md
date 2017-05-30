@@ -9,5 +9,4 @@ the testing lab probably needs a specific license. 30-50 ppm? is considered dang
 
 * lawyers defending landlords might be able to call the expertise of a testing lab into question.  but by the same token, lawyers defending tenants might be able to vouch for the accuracy of diy lab tests
 
-USA today Bronx soil
-lead article
+* USA today Bronx soil lead article
