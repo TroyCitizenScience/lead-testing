@@ -26,6 +26,7 @@ Papers and protocols describing how to do heavy metal testing on the cheap.
 * [DAV 5](https://hackaday.io/project/11412-dav-5-uvvis-spectrometer) - another interesting one
 * [Plab spectrometer version 2.5 vs Spex FluoroMax](https://publiclab.org/notes/silverhammer/02-06-2014/detecting-pesticides-in-organic-and-conventional-raspberries-using-open-source-instrumentation)
 * [Public Lab Spectrophotommetry Kit 3.0](https://publiclab.org/wiki/desktop-spectrometry-kit-3-0)
+* [DIY turbidity meters](http://hackteria.org/wiki/DIY_turbidity_meters) - **these also look very promising**
 
 ### software
 * [Spectral Workbench](https://spectralworkbench.org/login?back_to=/spectrums/fork/105146)
